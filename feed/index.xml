@@ -9,8 +9,8 @@
 
 <channel>
 	<title> Mango for Salesforce </title>
-	<atom:link href="https://vandango33.github.io/feed/" rel="self" type="application/rss+xml" />
-	<link>https://vandango33.github.io/</link>
+	<atom:link href="https://mangostrong.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mangostrong.com/</link>
 	<description></description>
 	<lastBuildDate>Sun, 18 Aug 2024 20:02:16 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,27 +21,27 @@
 	<generator>https://wordpress.org/?v=6.6.1</generator>
 
 <image>
-	<url>https://vandango33.github.io/wp-content/uploads/2024/08/cropped-Final-Mango-Image-Icon-1-32x32.png</url>
+	<url>https://mangostrong.com/wp-content/uploads/2024/08/cropped-Final-Mango-Image-Icon-1-32x32.png</url>
 	<title> Mango for Salesforce </title>
-	<link>https://vandango33.github.io/</link>
+	<link>https://mangostrong.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>https://vandango33.github.io/hello-world/</link>
-					<comments>https://vandango33.github.io/hello-world/#comments</comments>
+		<link>https://mangostrong.com/hello-world/</link>
+					<comments>https://mangostrong.com/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[markgood33]]></dc:creator>
 		<pubDate>Sun, 18 Aug 2024 20:02:16 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://vandango33.github.io/?p=1</guid>
+		<guid isPermaLink="false">https://mangostrong.com/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[<p class="wp-block-paragraph " style="">Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vandango33.github.io/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://mangostrong.com/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
